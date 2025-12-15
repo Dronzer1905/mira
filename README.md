@@ -22,7 +22,7 @@ The firmware for the Mira AUV
 Packages to install:
 ```
 # Install uv
-curl -LsSf https://astral.sh/uv/install.sh | less
+curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Clone the repository
 git clone https://github.com/davidnoronha1/mira.git
